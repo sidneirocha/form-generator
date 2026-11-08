@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+projeto-formulario.json
+pacote-formulario.zip
+test-results/
+playwright-report/
